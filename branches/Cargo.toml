@@ -1,0 +1,6 @@
+[package]
+name = "branches"
+version = "0.1.0"
+authors = ["gjackson <1174498+g-jackson@users.noreply.github.com>"]
+
+[dependencies]
