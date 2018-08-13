@@ -1,0 +1,8 @@
+# Cargo.toml
+[workspace]
+members = [
+    "variables",
+    "functions",
+    "guessing_game",
+    "hello_cargo",
+]
