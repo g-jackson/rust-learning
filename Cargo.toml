@@ -6,5 +6,5 @@ members = [
     "guessing_game",
     "hello_cargo",
     "branches",
-
+    "ownership",
 ]
