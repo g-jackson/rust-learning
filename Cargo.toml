@@ -7,4 +7,5 @@ members = [
     "hello_cargo",
     "branches",
     "ownership",
+    "exercism/hello-world",
 ]
