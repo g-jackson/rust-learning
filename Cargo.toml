@@ -8,4 +8,5 @@ members = [
     "branches",
     "ownership",
     "exercism/hello-world",
+    "structs",
 ]
