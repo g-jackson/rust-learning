@@ -9,4 +9,5 @@ members = [
     "ownership",
     "exercism/hello-world",
     "structs",
+    "enums",
 ]
